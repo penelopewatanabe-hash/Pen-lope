@@ -1,6 +1,6 @@
 # Olá 
 
-Meu nome é Penelope e sou estudante de **Desenvolvimento de Sistema**.
+Meu nome é Penélope e sou estudante de **Desenvolvimento de Sistema**.
 
 Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvimento de aplicações e boa praticas de : desenvolvimento de software.
 
